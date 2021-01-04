@@ -1,0 +1,21 @@
+###################################
+Name :- Mehrab Mehdi Islam
+ccid :- mehdiisl
+stid :- 1545664
+####################################
+File Included:-
+Report.pdf
+dataManipulator.py
+KNearestN.py
+NeuralNet.py
+LogesticReg
+README
+Kaggle_Data (original data from kaggle)
+
+Requirements to Run:-
+python3, matplotlib library, sklearn library, numpy library
+
+Run:-
+KNearestN.py for K-nearest neighbour
+NeuralNet.py for Neural Network
+LogesticReg for Logistic Regression
